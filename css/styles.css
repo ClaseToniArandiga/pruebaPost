@@ -1,0 +1,19 @@
+.container{
+  display: flex;
+  justify-content: center;
+  margin: 300px 0px 0px 0px;
+}
+body{
+  background-color: rgb(250, 190, 200);
+}
+
+.post{
+  background-color: rgb(24, 23, 23);
+  color: rgb(255, 255, 255);
+  font-family: "Ubuntu", sans-serif;
+  height: 300px;
+  width: 300px;
+  padding: 50px;
+  border-radius: 4px;
+  box-shadow: 6px 6px 8px red;
+}
